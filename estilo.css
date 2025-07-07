@@ -1,0 +1,9 @@
+body{background-color: cornsilk;
+h1{color:red; font-size: 40px;}
+h1{text-align: center;}
+p{font-size: 20px;}
+p{text-align: justify;}
+ul li{margin-bottom: 12px;}
+img{border-radius: 10px; padding-bottom: 50px;padding-left: 20px;}
+
+.Link:hover{color: red;}
